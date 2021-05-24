@@ -34,11 +34,11 @@ This is a fairly simple (and outdated) text-based simulation game I am implement
 
 ## Upcoming Repositories
 
-[ ] Molecular Dynamics Simulation (already started)
-[ ] Finite Element Method Simulation (already started)
-[ ] Ising Model and variants
-[ ] Machine Learning-based predictor 
-[ ] As soon as I take the Web Dev course I already have several websites projects
+- [ ] Molecular Dynamics Simulation (already started)
+- [ ] Finite Element Method Simulation (already started)
+- [ ] Ising Model and variants
+- [ ] Machine Learning-based predictor 
+- [ ] As soon as I take the Web Dev course I already have several websites projects
 
 
 ## Contact Info
